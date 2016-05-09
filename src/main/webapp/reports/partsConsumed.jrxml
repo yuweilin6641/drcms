@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="partsConsumed" language="groovy" pageWidth="842" pageHeight="842" whenNoDataType="AllSectionsNoDetail" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" isIgnorePagination="true" uuid="fe06c13b-a737-4787-870e-88afa3a9196c">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="148"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="createDate" class="java.lang.String"/>
+	<field name="partsNo" class="java.lang.String"/>
+	<field name="partsDesc" class="java.lang.String"/>
+	<field name="createDate" class="java.util.Date"/>
+	<field name="returnDate" class="java.util.Date"/>
+	<field name="goodsSN" class="java.lang.String"/>
+	<field name="assetSN" class="java.lang.String"/>
+	<field name="partsType" class="java.lang.String"/>
+	<field name="facebookPartsNo" class="java.lang.String"/>
+	<field name="dataCenter" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="26" splitType="Stretch">
+			<staticText>
+				<reportElement x="75" y="0" width="100" height="20" uuid="6a03f3d5-b106-4d7b-9419-7898108f1fa3"/>
+				<text><![CDATA[partsDesc]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="175" y="0" width="100" height="20" uuid="e5581071-c1da-41fb-931c-8ca7bf767399"/>
+				<text><![CDATA[goodsSN]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="275" y="0" width="100" height="20" uuid="d40c298f-f4d8-46af-8888-15745b892710"/>
+				<text><![CDATA[partsType]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="375" y="0" width="100" height="20" uuid="52b12364-fde5-4c66-8679-8023227b1358"/>
+				<text><![CDATA[createDate]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="475" y="0" width="100" height="20" uuid="a15474e6-37db-4318-8f1b-1011e099bd54"/>
+				<text><![CDATA[facebookPartsNo]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="575" y="0" width="100" height="20" uuid="6d377357-5d88-43e3-9d9f-e017578a5a9b"/>
+				<text><![CDATA[partsNo]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="675" y="0" width="100" height="20" uuid="3b1a3280-cbab-4531-98a3-7265a4f9f6ad"/>
+				<text><![CDATA[dataCenter]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="65" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band splitType="Stretch">
+			<staticText>
+				<reportElement x="-28" y="-91" width="103" height="20" uuid="b58879fe-4b82-4e87-90ac-cac2be3bcf1d"/>
+				<text><![CDATA[assetSN]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="39" splitType="Prevent">
+			<textField>
+				<reportElement stretchType="RelativeToBandHeight" x="-28" y="0" width="103" height="20" uuid="1c68827a-0fd2-46c8-80d7-380f39a7e5c3"/>
+				<textFieldExpression><![CDATA[$F{assetSN}]]></textFieldExpression>
+			</textField>
+			<textField isStretchWithOverflow="true" pattern="">
+				<reportElement positionType="Float" stretchType="RelativeToBandHeight" x="75" y="0" width="100" height="20" uuid="784b993d-bad5-4f56-bdd7-4720bd51f95f"/>
+				<textFieldExpression><![CDATA[$F{partsDesc}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement stretchType="RelativeToBandHeight" x="175" y="0" width="100" height="20" uuid="40130f72-73f0-4a76-b67d-d770a7d3adff"/>
+				<textFieldExpression><![CDATA[$F{goodsSN}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement stretchType="RelativeToBandHeight" x="275" y="0" width="100" height="20" uuid="a214cb11-9aab-4147-9887-821e35ad7b4e"/>
+				<textFieldExpression><![CDATA[$F{partsType}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement stretchType="RelativeToBandHeight" x="375" y="0" width="100" height="20" uuid="c082d5be-9865-4427-989c-7691ef72c8d9"/>
+				<textFieldExpression><![CDATA[new SimpleDateFormat("MM/dd/yyyy").format($F{createDate})]]></textFieldExpression>
+			</textField>
+			<textField isStretchWithOverflow="true">
+				<reportElement positionType="Float" stretchType="RelativeToBandHeight" x="475" y="0" width="100" height="20" uuid="313539d2-7e96-4370-85f7-63a7690a42cf"/>
+				<textFieldExpression><![CDATA[$F{facebookPartsNo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement stretchType="RelativeToBandHeight" x="575" y="0" width="100" height="20" uuid="4bd7f328-7a74-4606-a5a0-4430a2026100"/>
+				<textFieldExpression><![CDATA[$F{partsNo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement stretchType="RelativeToBandHeight" x="675" y="0" width="100" height="20" uuid="c5a8ff2d-63c7-43bc-9bb4-9e118c79629d"/>
+				<textFieldExpression><![CDATA[$F{dataCenter}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="46" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

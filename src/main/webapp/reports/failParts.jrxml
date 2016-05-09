@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="failParts" language="groovy" pageWidth="595" pageHeight="842" whenNoDataType="AllSectionsNoDetail" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" isIgnorePagination="true" uuid="fe06c13b-a737-4787-870e-88afa3a9196c">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="1"/>
+	<parameter name="customer" class="java.lang.String" isForPrompting="false"/>
+	<parameter name="partsNo" class="java.lang.String" isForPrompting="false"/>
+	<parameter name="shippingDate" class="java.lang.String"/>
+	<field name="partsNo" class="java.lang.String"/>
+	<field name="partsDesc" class="java.lang.String"/>
+	<field name="shippingDate" class="java.util.Date"/>
+	<field name="returnDate" class="java.util.Date"/>
+	<field name="goodsSN" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="21" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="75" height="20" uuid="be107158-ae24-4505-990f-3286c35e0c93"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[Parts No]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="75" y="0" width="100" height="20" uuid="f677e548-8a5d-4c5f-8fa4-8981fa875e36"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[parts Description]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="175" y="0" width="100" height="20" uuid="f11fe5b7-87c1-4ce4-a915-d8e03a3937e4"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[Shipping Date]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="275" y="0" width="100" height="20" uuid="ee0c8253-9b1a-4419-953b-52e7cae24ac7"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[Return Date]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="375" y="0" width="100" height="20" uuid="1d173bf0-a94c-4792-898d-1f5834af8359"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[goods SN]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="61" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="26" splitType="Stretch"/>
+	</columnHeader>
+	<detail>
+		<band height="34" splitType="Stretch">
+			<textField isStretchWithOverflow="true">
+				<reportElement stretchType="RelativeToBandHeight" x="0" y="3" width="75" height="20" uuid="4d706315-895a-45a4-b47e-fefef2ef9c4e"/>
+				<textFieldExpression><![CDATA[$F{partsNo}]]></textFieldExpression>
+			</textField>
+			<textField isStretchWithOverflow="true">
+				<reportElement stretchType="RelativeToBandHeight" x="75" y="3" width="100" height="20" uuid="f5ff53dd-3683-4f1f-9bf3-9f80aa141f54"/>
+				<textFieldExpression><![CDATA[$F{partsDesc}]]></textFieldExpression>
+			</textField>
+			<textField isStretchWithOverflow="true">
+				<reportElement stretchType="RelativeToBandHeight" x="175" y="3" width="100" height="20" uuid="16ccb9ba-4725-43b5-a044-48b257626d44"/>
+				<textFieldExpression><![CDATA[$F{shippingDate}]]></textFieldExpression>
+			</textField>
+			<textField isStretchWithOverflow="true">
+				<reportElement stretchType="RelativeToBandHeight" x="275" y="3" width="100" height="20" uuid="58c89490-27f1-43da-a479-ef649736cd4e"/>
+				<textFieldExpression><![CDATA[$F{returnDate}]]></textFieldExpression>
+			</textField>
+			<textField isStretchWithOverflow="true">
+				<reportElement stretchType="RelativeToBandHeight" x="375" y="3" width="100" height="20" uuid="5ebc3d60-e171-4bc3-88a5-d65766326105"/>
+				<textFieldExpression><![CDATA[$F{goodsSN}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="46" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

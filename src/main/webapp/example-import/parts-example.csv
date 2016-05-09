@@ -1,0 +1,6080 @@
+Part Type,FG Assembly
+Part Number,91.B0301.003G
+Revision,A
+Sequence,4
+Description,SV320 E2620*2/3TB*2/16G*12/9260-4IWB/10G
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCY110-Infrastructure Service Business
+General Description,SERVER SV320 E2620*2/3TB*2/16G*12/9260-4IWB/10G
+Contract Information,
+CMS3 Bonded Flag,0: Unknown 
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,TEATREE
+Project Code,91.B0301.001
+Material or Process Change?,NO
+Green Factor,N/A;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,136(WZS-2); 600(WHQ Hub Plant); 900(WYHQ);
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,GENERIC
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,Fiper Chou
+Creation Date,2013-04-10-10:35:55
+Modified By,Julia Yu
+Last Modified Date,2013-04-15-16:53:10
+Origional Applied Date,2013-02-19-10:59:04
+,
+Part Type,FG Assembly
+Part Number,91.B0310.001G
+Revision,A
+Sequence,3
+Description,"TEATREE MAIN BOARD W/O CPU,DIMM-1"
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCY110-Infrastructure Service Business
+General Description,"MAIN BOARD TEATREE MAIN BOARD W/O CPU,DIMM-1"
+Contract Information,
+CMS3 Bonded Flag,0: Unknown 
+M/P Code,Manufacture
+Material Category,BM
+Material Category First Digit Description,Main board or main board with small board
+Material Category Second Digit Description,Main Board
+Model Name,TEATREE
+Project Code,91.B0301.001
+Material or Process Change?,NO
+Green Factor,N/A;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,136(WZS-2); 900(WYHQ);
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,GENERIC
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,Simonette Hsu
+Creation Date,2013-04-12-11:41:31
+Modified By,Julia Yu
+Last Modified Date,2013-11-22-13:41:01
+Origional Applied Date,2012-10-08-10:23:26
+,
+Part Type,EE Component
+Part Number,01.0XEON.20B
+Revision,A
+Sequence,2
+Description,IC CPU XEON E5-2620 2.0GHZ 15M 95W C2 LG
+Material Type,"ROH-Parts procured from Vendors, SW/Driver with disk"
+Profit Center,PCY110-Infrastructure Service Business
+General Description,IC CPU XEON E5-2620 2.0GHZ 15M 95W C2 LGA
+Contract Information,FREQUENCY: 2.0GHZ
+CMS3 Bonded Flag,Y: Bonded 
+M/P Code,Purchase
+Material Category,PC
+Material Category First Digit Description,Processor
+Material Category Second Digit Description,CPU
+Model Name,
+Project Code,
+Material or Process Change?,NO
+Green Factor,R2_SA;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,601(WIH MFG Plant); 136(WZS-2); 137(WZS EBG); 900(WYHQ);
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Preliminary Vendor,INTEL
+Preliminary Vendor Part Number,919196 SR0KW CM8062101048401
+Component Version,
+Component Top Marking,
+MSDC Level,
+Comments For Part,
+FCC ID,
+Mfg. ID,
+Assession Number,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,Karl Rh Wang
+Creation Date,2012-07-31-09:22:00
+Modified By,Pauline Lin
+Last Modified Date,2013-11-22-13:39:04
+Origional Applied Date,2012-07-25-18:25:05
+,
+Part Type,Misc Component
+Part Number,72.42GR7.B0N
+Revision,A
+Sequence,1
+Description,DIMM 16G HMT42GR7AFR4A-PB DDR3L 1.35V
+Material Type,"ROH-Parts procured from Vendors, SW/Driver with disk"
+Profit Center,PCE000-EBG common pool
+General Description,DDR3L 1600MHZ 16G R-DIMM W/4G CHIP A DIE(29NM) 1.35V
+Contract Information,1.capacity: 16G 2.Function: Used in Computer/ Server
+CMS3 Bonded Flag,Y: Bonded 
+M/P Code,Purchase
+Material Category,MS
+Material Category First Digit Description,Memory
+Material Category Second Digit Description,"SDIMM,RIMM,DIMM,SODIMM,Memory Continuity Module,VRAM,SRAM"
+Model Name,16G
+Project Code,
+Material or Process Change?,NO
+Green Factor,R2_SA;HF_SA;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,601(WIH MFG Plant); 136(WZS-2); 137(WZS EBG); 900(WYHQ);
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Preliminary Vendor,SKHYNIX
+Preliminary Vendor Part Number,HMT42GR7AFR4A-PB
+MSDC Level,
+Comments For Part,
+FCC ID,
+Mfg. ID,
+Assession Number,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,Carrie Huang
+Creation Date,2013-02-25-14:15:23
+Modified By,Pauline Lin
+Last Modified Date,2013-11-22-13:39:28
+Origional Applied Date,2013-02-25-14:15:23
+,
+Part Type,Misc Component
+Part Number,56.02P01.001
+Revision,A
+Sequence,3
+Description,"HDD 3TB 3.5"" SGT ST33000650NS 9SM160 NL"
+Material Type,"ROH-Parts procured from Vendors, SW/Driver with disk"
+Profit Center,PCU000-Sever 2
+General Description,"HDD 3TB 3.5"" SEAGATE ST33000650NS 9SM160 NL 7.2K"
+Contract Information,
+CMS3 Bonded Flag,Y: Bonded 
+M/P Code,Purchase
+Material Category,OH
+Material Category First Digit Description,Optical/Storage
+Material Category Second Digit Description,HDD
+Model Name,3TB
+Project Code,
+Material or Process Change?,NO
+Green Factor,R2_SA;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Obsoleted
+Part Dispatched Destination,601(WIH MFG Plant); 136(WZS-2); 900(WYHQ); 133(WZS SBU Plant); 370(WMKS CSD Plant); 374(WMKS CSD NonValue Plant); 022(WPH CSD Plant); 024(WPH CSD NonValue Plant); 350(WSKS CSD Plant); 354(WSKS CSD NonValue Plant); 603(WIH CSD Plant); 604(WIH CSD NonValue Plant);
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Preliminary Vendor,SEAGATE
+Preliminary Vendor Part Number,ST33000650NS 9SM160
+MSDC Level,
+Comments For Part,"20131128/OBS reason:Successor : Seagate, ST3000NM0033"
+FCC ID,
+Mfg. ID,
+Assession Number,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,Joyce Pj Wu
+Creation Date,2012-11-12-14:05:23
+Modified By,Ashely Chang
+Last Modified Date,2013-11-28-18:08:13
+Origional Applied Date,2011-07-19-14:45:06
+,
+Part Type,EE Component
+Part Number,54.03361.M03
+Revision,A
+Sequence,5
+Description,"LAN CARD 10GBE, X520-SR2 MM#900137 SPF+"
+Material Type,"ROH-Parts procured from Vendors, SW/Driver with disk"
+Profit Center,PCY000-Wiwynn Corporation
+General Description,"LAN CARD 10GBE, X520-SR2 MM#900137 SPF+(WIWYNN)"
+Contract Information,LAN Card
+CMS3 Bonded Flag,Y: Bonded 
+M/P Code,Purchase
+Material Category,AL
+Material Category First Digit Description,Add-on Card
+Material Category Second Digit Description,"Modem/Lan, Ethernet & Network Card"
+Model Name,
+Project Code,
+Material or Process Change?,NO
+Green Factor,R2_SA;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,601(WIH MFG Plant); 136(WZS-2); 137(WZS EBG); 900(WYHQ);
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Preliminary Vendor,INTEL
+Preliminary Vendor Part Number,X520-SR2
+Component Version,
+Component Top Marking,
+MSDC Level,
+Comments For Part,"wrong contract information, apply new part number"
+FCC ID,
+Mfg. ID,
+Assession Number,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,Katherine Wu
+Creation Date,2013-03-28-17:33:36
+Modified By,Mandy Yw Yu
+Last Modified Date,2013-05-07-09:47:18
+Origional Applied Date,2012-09-25-11:35:29
+,
+Part Type,Misc Component
+Part Number,54.21027.011
+Revision,A
+Sequence,2
+Description,RAID CARD LSI MEGARAID SAS 9260-4I
+Material Type,"ROH-Parts procured from Vendors, SW/Driver with disk"
+Profit Center,PCT000-Sever 1
+General Description,RAID CARD LSI MEGARAID SAS 9260-4I
+Contract Information,
+CMS3 Bonded Flag,Y: Bonded 
+M/P Code,Purchase
+Material Category,AR
+Material Category First Digit Description,Add-on Card
+Material Category Second Digit Description,Raid Card
+Model Name,
+Project Code,91.61Y01.001
+Material or Process Change?,NO
+Green Factor,R2_SA;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,601(WIH MFG Plant); 136(WZS-2); 137(WZS EBG); 900(WYHQ); 133(WZS SBU Plant); 091(WSCZ SBG Value Plant); 094(WSCZ SBG NonValue Plant); 100(WJP CSD Plant); 104(WJP CSD NonValue Plant); 032(WTX CSD Plant); 370(WMKS CSD Plant); 374(WMKS CSD NonValue Plant); 022(WPH CSD Plant); 024(WPH CSD NonValue Plant); 350(WSKS CSD Plant); 354(WSKS CSD NonValue Plant); 603(WIH CSD Plant); 604(WIH CSD NonValue Plant);
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Preliminary Vendor,LSI
+Preliminary Vendor Part Number,SAS 9260-4i
+MSDC Level,
+Comments For Part,
+FCC ID,
+Mfg. ID,
+Assession Number,
+User/Vault/External System,<Corp_Vault>
+Creator,Karl Rh Wang
+Creation Date,2013-07-09-20:09:07
+Modified By,SPLCSD
+Last Modified Date,2013-07-09-20:09:10
+Origional Applied Date,2011-03-17-17:25:10
+,
+Part Type,Misc Component
+Part Number,54.21027.031
+Revision,A
+Sequence,2
+Description,RAID CARD MEGA IBBU08 BATTERY BACKUPUNIT
+Material Type,"ROH-Parts procured from Vendors, SW/Driver with disk"
+Profit Center,PCL000-Notebook common pool
+General Description,RAID CARD MEGA IBBU08 BATTERY BACKUP UNIT
+Contract Information,
+CMS3 Bonded Flag,Y: Bonded 
+M/P Code,Purchase
+Material Category,AR
+Material Category First Digit Description,Add-on Card
+Material Category Second Digit Description,Raid Card
+Model Name,
+Project Code,
+Material or Process Change?,NO
+Green Factor,R2_SA;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,601(WIH MFG Plant); 330(WKS-5(Annie)); 136(WZS-2); 137(WZS EBG); 900(WYHQ); 133(WZS SBU Plant); 091(WSCZ SBG Value Plant); 094(WSCZ SBG NonValue Plant); 100(WJP CSD Plant); 104(WJP CSD NonValue Plant); 032(WTX CSD Plant); 370(WMKS CSD Plant); 374(WMKS CSD NonValue Plant); 022(WPH CSD Plant); 024(WPH CSD NonValue Plant); 350(WSKS CSD Plant); 354(WSKS CSD NonValue Plant); 603(WIH CSD Plant); 604(WIH CSD NonValue Plant);
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Preliminary Vendor,LSI
+Preliminary Vendor Part Number,iBBU08
+MSDC Level,
+Comments For Part,
+FCC ID,
+Mfg. ID,
+Assession Number,
+User/Vault/External System,<Corp_Vault>
+Creator,Karl Rh Wang
+Creation Date,2013-04-17-17:20:21
+Modified By,Mandy Yw Yu
+Last Modified Date,2013-04-17-17:20:52
+Origional Applied Date,2011-04-11-15:55:44
+
+Part Type,FG Assembly
+Part Number,81.02720.S17
+Revision,A
+Sequence,1
+Description,IDCMT-2511B HSF 200W
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,ASSY HOUSING IDCMT-2511B
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,ZZ
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Tooling
+Model Name,IDT
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:02:40
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.02720.S18
+Revision,A
+Sequence,1
+Description,IDCMT-2711B HSF 250W
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,ASSY HOUSING IDCMT-2711B
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,ZZ
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Tooling
+Model Name,IDT
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:02:40
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.04737.S01
+Revision,A
+Sequence,1
+Description,CD-920E/IG20 UMC
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CD-ROM DRIVER CD-920E/IG20 UMC
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,CD920E
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:02:41
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.14A02.S01
+Revision,A
+Sequence,1
+Description,"D-12.1"" LCD MONITOR (CMOS)-C"
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,"D-12.1"" LCD MONITOR (CMOS)-C"
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,DB
+Material Category First Digit Description,Peripheral
+Model Name,
+Project Code,91.14A02.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,Connie Hsiao
+Last Modified Date,2005-07-06-05:03:52
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.14A10.S01
+Revision,A
+Sequence,1
+Description,"D-12.1""LCD MONITOR CMOS I/F BD"
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,"D-12.1""LCD MONITOR CMOS I/F BD"
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,A-
+Material Category First Digit Description,Add on card(with PCI or AGP golden fingers)
+Material Category Second Digit Description,Add on card(with PCI or AGP golden fingers)
+Model Name,HTCLCD
+Project Code,91.14A02.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:03:52
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.15A02.S01
+Revision,A
+Sequence,1
+Description,"D-14.1"" LCD MONITOR (LVDS)-C"
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,"D-14.1"" LCD MONITOR (LVDS)-C"
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,HTCLCD
+Project Code,91.15A02.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,Pauline Lin
+Last Modified Date,2005-07-06-05:03:57
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.15A10.S01
+Revision,A
+Sequence,1
+Description,"D-14.1""LCD MONITOR LVDS I/F BD"
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,"D-14.1""LCD MONITOR LVDS I/F BD"
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,HTCLCD
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:03:58
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.16A02.S01
+Revision,A
+Sequence,1
+Description,"D-15"" LCD MONITOR (LVDS)"
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,"D-15"" LCD MONITOR (LVDS)"
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,HTCLCD
+Project Code,91.16A02.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,601(WIH MFG Plant); 603(WIH CSD Plant); 604(WIH CSD NonValue Plant);
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:04:22
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.16A10.S01
+Revision,A
+Sequence,1
+Description,"D-15"" LCD MONITOR LVDS I/F B.D"
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,"D-15"" LCD MONITOR LVDS I/F B.D"
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,HTCLCD
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:04:25
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.16848.S01
+Revision,A
+Sequence,1
+Description,DVC-V2 FOR SENSOR SONY
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,DIGITAL PC VIDEO SENSOR DVC-V2 (SONY)
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,DVC-V2
+Project Code,91.16848.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:04:19
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.16848.S02
+Revision,A
+Sequence,1
+Description,DVC-V2 FOR SENSOR SHARP
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,DIGITAL PC VIDEO SENSOR DVC-V2 (SHARP)
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,DVC-V2
+Project Code,91.16848.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:04:19
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.17A10.S01
+Revision,A
+Sequence,1
+Description,"A-14.1"" LCD SW BD (5DIP)"
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,"SWITCH BOARD A-14.1"" LCD (5DIP)"
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,HTCLCD
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:05:08
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.18A02.001
+Revision,A
+Sequence,1
+Description,"A-15"" LCD MONITOR (TFT) NEC"
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,"A-15"" LCD MONITOR (TFT) NEC"
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,
+Project Code,91.18A02.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:05:16
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.18A02.002
+Revision,A
+Sequence,1
+Description,"A-15"" LCD MONITOR (STFT) HTC"
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,"A-15"" LCD MONITOR (STFT) HTC"
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,HTCLCD
+Project Code,91.18A02.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,Cheryl Chang
+Last Modified Date,2005-07-06-05:05:17
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.18A10.S01
+Revision,A
+Sequence,1
+Description,"A-15"" TFT LCD SW BD (4DIP)"
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,"SWITCH BOARD A-15"" TFT LCD (4DIP)"
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,HTCLCD
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:05:20
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.21A42.001
+Revision,A
+Sequence,1
+Description,CT500W COMPUTER SYS W/CPU200
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CT500W COMPUTER SYS WITH CPU PPMT200
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,CT500W
+Project Code,91.21A42.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,May Chin
+Last Modified Date,2005-07-06-05:05:55
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.27442.S03
+Revision,A
+Sequence,1
+Description,SU-CS1
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCT000-Sever 1
+General Description,ACERSTAR DIGITAL TV RECE ST300S/AIWA SU-CS1
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,ZZ
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Tooling
+Model Name,ST300S
+Project Code,91.27442.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:07:07
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.27442.005
+Revision,A
+Sequence,1
+Description,ST300S SU-CS1
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,INTERNET COMPUTER W/O CPU ST300S
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,ZZ
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Tooling
+Model Name,ST300S
+Project Code,91.27442.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:07:03
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.27442.006
+Revision,A
+Sequence,1
+Description,DIGI MICRO COMPUTER ST100S/U2
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCT000-Sever 1
+General Description,DIGITAL MICRO COMPUTER ST100S/U2
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,ZZ
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Tooling
+Model Name,ST100S
+Project Code,91.27442.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:07:04
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.27442.007
+Revision,A
+Sequence,1
+Description,DIGI MICRO COMPUTER/ST300S-2
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,DIGITAL MICRO COMPUTER/ST300S-2 W/O CPU
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,ST300S
+Project Code,91.27442.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:07:04
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.27942.S10
+Revision,A
+Sequence,1
+Description,NT150 MAGINET PAL SYSTEM
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,NT150 MAGINET PAL SYSTEM
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,NT150
+Project Code,91.27942.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:07:15
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.27942.S12
+Revision,A
+Sequence,1
+Description,NT150 SYSTEM VIEW NET
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCT000-Sever 1
+General Description,NT150 SYSTEM VIEW NET
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,ZZ
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Tooling
+Model Name,NT151
+Project Code,91.27942.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:07:15
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.27942.S16
+Revision,A
+Sequence,1
+Description,NT150-U PAL-I SYSTEM
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCWTBA-To be allocated
+General Description,AMDK5-133 4MB 1NT150-U PAL-I SYSTEM
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Model Name,NT150
+Project Code,91.27942.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:07:16
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.27942.015
+Revision,A
+Sequence,1
+Description,NT150-S PAL SPAIN SYSTEM
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCWTBA-To be allocated
+General Description,AMDK5-133 4MB NT150-S PAL SPAIN SYSTEM
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Model Name,NT150
+Project Code,91.27942.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,
+Last Modified Date,2005-07-06-05:07:07
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.27942.018
+Revision,A
+Sequence,1
+Description,NT150 ETV2000E NTSC SYSTEM
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCWTBA-To be allocated
+General Description,5X86/133 NT150 ETV2000E NTSC SYS
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Model Name,NT150
+Project Code,91.27942.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,Lisa CY Yeh
+Last Modified Date,2005-07-06-05:07:08
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.27942.019
+Revision,A
+Sequence,1
+Description,NT150-W INTERNET COMPUTER
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,NT150-W INTERNET COMPUTER W/CPU AMD-X5-133
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,WE
+Material Category First Digit Description,Mechanical Parts-1.Metal & Plastic 2.Miscellaneoue 3.Consuming 4.MISC Final Assy
+Material Category Second Digit Description,"Metal & Plastic:Upper/Lower Case, Plate, Bezel, Door, Cover, Bracket, Chassis, Knob, Lens, Holder"
+Model Name,
+Project Code,91.27942.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,032(WTX CSD Plant); 603(WIH CSD Plant);
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:47
+Modified By,SPLCSD
+Last Modified Date,2011-10-05-16:37:19
+Origional Applied Date,1999-08-07-23:42:47
+,
+Part Type,FG Assembly
+Part Number,81.27942.022
+Revision,A
+Sequence,1
+Description,NT150-S PAL SYSTEM W/O KB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,5X86/133 SET-TOP BOX NT150-S PAL W/O KB
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,NT150
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:07:09
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.28110.S01
+Revision,A
+Sequence,1
+Description,CV300 CVD PLAYER(SKD)-MPEG BD
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCWTBA-To be allocated
+General Description,CV300 CVD PLAYER(SKD)-MPEG BOARD
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Model Name,
+Project Code,91.28142.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:07:17
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.29342.S07
+Revision,A
+Sequence,1
+Description,DVD-1100A SHUTTLE(ACER)
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCWTBA-To be allocated
+General Description,DVD-1100A SHUTTLE(ACER)
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Model Name,DVD110
+Project Code,91.29342.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:07:22
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.29342.101
+Revision,A
+Sequence,1
+Description,DVD3100 5.1 CHI OUTPUT
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCT000-Sever 1
+General Description,DVD3100 5.1 CHI OUTPUT
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,ZZ
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Tooling
+Model Name,DVD310
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:07:21
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.29742.001
+Revision,A
+Sequence,1
+Description,DVD 3100 SYS W/2 CHL OUTPUT/TW
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,DVD 3100 SYS W/2 CHL OUTPUT/TW
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,DV3100
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:07:23
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.29742.011
+Revision,A
+Sequence,1
+Description,DVD 3300 SYS W/6 CHL OUTPUT/TW
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,DVD 3300 SYS W/6 CHL OUTPUT/TW
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,DV3300
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:07:24
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.29742.012
+Revision,A
+Sequence,1
+Description,DVD 3300 SYS W/6 CHL OUTPUT/HK
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,DVD 3300 SYS W/6 CHL OUTPUT/HK
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,DV3300
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:07:25
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.29742.021
+Revision,A
+Sequence,1
+Description,DVD 3500 SYS W/6 CHL OUTPUT/TW
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,DVD 3500 SYS W/6 CHL OUTPUT/TW
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,DV3500
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:07:25
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.30F10.001
+Revision,A
+Sequence,1
+Description,V76M M/B SIS620/5595ESS SOLO1
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PII MAINBOARD W/O CPU V76M
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,BM
+Material Category First Digit Description,Main board or main board with small board
+Material Category Second Digit Description,Main Board
+Model Name,V76M
+Project Code,91.30F01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:08:19
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31A01.001
+Revision,A
+Sequence,1
+Description,PII COMPUTER W/O CPU V70LA/OKI
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PII COMPUTER W/O CPU V70LA/OKI
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,V70LA
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:44
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31A01.002
+Revision,A
+Sequence,1
+Description,V70LA WBT Z-BOX
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,V70LA WBT COMPUTER SYSTEM W/O CPU
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V70LA
+Project Code,91.31A01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:45
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31A01.003
+Revision,A
+Sequence,1
+Description,V70LA IDB3/SNI SYS W/CPU P/R
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,V70LA IDB3/SNI SYSTEM P/R W/CPU AMDK6-350
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,ZZ
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Tooling
+Model Name,V70LA
+Project Code,91.31A01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:45
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31A10.S01
+Revision,A
+Sequence,1
+Description,V70LA MAIN BOARD
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PENTIUM MAIN BOARD W/O CPU V70LA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,BM
+Material Category First Digit Description,Main board or main board with small board
+Material Category Second Digit Description,Main Board
+Model Name,V70LA
+Project Code,91.31A01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,BOM01
+Last Modified Date,2005-07-06-05:09:49
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31A10.002
+Revision,A
+Sequence,1
+Description,V70LA AUDIO BOARD
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,V70LA AUDIO BOARD
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,A-
+Material Category First Digit Description,Add on card(with PCI or AGP golden fingers)
+Material Category Second Digit Description,Add on card(with PCI or AGP golden fingers)
+Model Name,V70LA
+Project Code,91.31A01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:46
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31A10.004
+Revision,A
+Sequence,1
+Description,V70LA FLASH MEMORY DISK 4MB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,V70LA FLASH MEMORY DISK 4MB MODULE
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,A-
+Material Category First Digit Description,Add on card(with PCI or AGP golden fingers)
+Material Category Second Digit Description,Add on card(with PCI or AGP golden fingers)
+Model Name,V70LA
+Project Code,91.31A01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:47
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31A10.005
+Revision,A
+Sequence,1
+Description,V70LA MAIN BOARD OKI W/O SOUND
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,V70LA MAIN BOARD OKI W/O SOUND
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,BM
+Material Category First Digit Description,Main board or main board with small board
+Material Category Second Digit Description,Main Board
+Model Name,V70LA
+Project Code,91.31A01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:47
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31B10.S01
+Revision,A
+Sequence,1
+Description,K28 RAGE PRO TURBO 8MB SDRAM
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCWTBA-To be allocated
+General Description,K28 RAGE PRO TURBO 8MB SDRAM
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:52
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31B10.S02
+Revision,A
+Sequence,1
+Description,K28 RISER CARD
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCWTBA-To be allocated
+General Description,K28 RISER CARD
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:52
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31B10.S03
+Revision,A
+Sequence,1
+Description,K28-A AIO BOARD
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCWTBA-To be allocated
+General Description,K28-A AIO BOARD
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:53
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31B10.S04
+Revision,A
+Sequence,1
+Description,K28 M/B W/O AMP
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCWTBA-To be allocated
+General Description,PENTIUM MAIN BOARD W/O CPU K28
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:53
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31B10.S05
+Revision,A
+Sequence,1
+Description,K28 MB I740 8MB W/I AMP W/O S3
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,K28 PII MB I740 8MB W/O CPU W/O S3
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,BM
+Material Category First Digit Description,Main board or main board with small board
+Material Category Second Digit Description,Main Board
+Model Name,K28
+Project Code,91.31B01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:54
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31B10.006
+Revision,A
+Sequence,1
+Description,K28-1M MB I740 W/AMP W/O S3
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,K28-1M M/B I740 8MB SDRAM W/I AMP W/O S3
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,BM
+Material Category First Digit Description,Main board or main board with small board
+Material Category Second Digit Description,Main Board
+Model Name,K28-1M
+Project Code,91.31B01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:50
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31B10.007
+Revision,A
+Sequence,1
+Description,K28-1M FRONT PANEL BOARD
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,K28-1M FRONT PANEL BOARD
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,A-
+Material Category First Digit Description,Add on card(with PCI or AGP golden fingers)
+Material Category Second Digit Description,Add on card(with PCI or AGP golden fingers)
+Model Name,K28-A
+Project Code,91.31B01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:51
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31C01.001
+Revision,A
+Sequence,1
+Description,V66MA AS6201
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON(X370)/300 COMPUTER V66MA AS6201
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V66MA
+Project Code,91.31C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:54
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31C01.003
+Revision,A
+Sequence,1
+Description,V66MA AS6203
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON(X370)/366 COMPUTER V66MA AS6203
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V66MA
+Project Code,91.31C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:55
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31C01.004
+Revision,A
+Sequence,1
+Description,V66MA AP6201
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON(X370)/300 COMPUTER V66MA AP6201
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V66MA
+Project Code,91.31C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:56
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31C01.005
+Revision,A
+Sequence,1
+Description,V66MA AP6202
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON(X370)/333 COMPUTER V66MA AP6202
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V66MA
+Project Code,91.31C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:56
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31C01.006
+Revision,A
+Sequence,1
+Description,V66MA AP6203
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON(X370)/366 COMPUTER V66MA AP6203
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V66MA
+Project Code,91.31C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:57
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31C01.007
+Revision,A
+Sequence,1
+Description,V66MA AS 001 FOR SIT
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PII/300 COMPUTER V66MA/AS 001
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V66MA
+Project Code,91.31C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:57
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31C01.009
+Revision,A
+Sequence,1
+Description,V66MA AS 003 FOR SIT
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PII/366 COMPUTER V66MA/AS 003
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V66MA
+Project Code,91.31C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:09:58
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31C01.011
+Revision,A
+Sequence,1
+Description,V66MA AP 002 FOR SIT
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PII/333 COMPUTER V66MA/AP 002
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V66MA
+Project Code,91.31C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:10:00
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31C01.012
+Revision,A
+Sequence,1
+Description,V66MA H40 COMPUTER SYSTEM P/R
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PII/366 COMPUTER SYSTEM V66MA/H40
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V66MA
+Project Code,91.31C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:10:00
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31C01.201
+Revision,A
+Sequence,1
+Description,V66MA C3 TEST MICRON 64MB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CE/366 COMPUTER V66MA C3
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V66MA
+Project Code,91.31C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:10:01
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31C01.202
+Revision,A
+Sequence,1
+Description,V66MA C3 TEST HYUNDAI 64MB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CE/366 COMPUTER V66MA C3
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V66MA
+Project Code,91.31C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:10:01
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.31C10.001
+Revision,A
+Sequence,1
+Description,V66MA M/B RPRO 2X 8MB SOLO 1
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PII MAINBOARD W/O CPU V66MA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,BM
+Material Category First Digit Description,Main board or main board with small board
+Material Category Second Digit Description,Main Board
+Model Name,V66MA
+Project Code,91.31C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:10:04
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32B01.001
+Revision,A
+Sequence,1
+Description,XT50 COMPUTER SYSTEM W/CPU
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,POWERPC821 COMPUTER SYSTEM XT50
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,XT50
+Project Code,91.32B01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:46
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32B01.002
+Revision,A
+Sequence,1
+Description,XT50 COMPUTER SYSTEM W/CPU
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,MPC821 COMPUTER SYSTEM XT50
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,XT50
+Project Code,91.32B01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:47
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32C10.003
+Revision,A
+Sequence,1
+Description,XE50 AUDIO AND TV-TUNER BOARD
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,XE50 AUDIO AND TV-TUNER BOARD
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,A-
+Material Category First Digit Description,Add on card(with PCI or AGP golden fingers)
+Material Category Second Digit Description,Add on card(with PCI or AGP golden fingers)
+Model Name,XE50
+Project Code,91.32C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:50
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32C10.005
+Revision,A
+Sequence,1
+Description,XE50 LED BOARD
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,XE50 LED BOARD
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,A-
+Material Category First Digit Description,Add on card(with PCI or AGP golden fingers)
+Material Category Second Digit Description,Add on card(with PCI or AGP golden fingers)
+Model Name,XE50
+Project Code,91.32C01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:51
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32F01.001
+Revision,A
+Sequence,1
+Description,WT300 COMPUTER SYS W/CPU CYRIX
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,WT300 COMPUTER SYSTEM W/CPU CYRIX LV 200MHZ
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,WT300
+Project Code,91.32F01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:53
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32F10.001
+Revision,A
+Sequence,1
+Description,XT70 MAIN BOARD W/CPU
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,XT70 MAIN BOARD W/CPU PENTIUM PPMT166
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,XT70
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:57
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32901.H3A
+Revision,A
+Sequence,1
+Description,V65MA AUSTRALIA C/333 32M
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,C/333 COMPUTER SYSTEM V65MA AUSTRALIA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,AS6000
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,601(WIH MFG Plant); 603(WIH CSD Plant); 604(WIH CSD NonValue Plant);
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:22
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32901.L3T
+Revision,A
+Sequence,1
+Description,V65MA TAIWAN C/333 32M
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,C/333 COMPUTER SYSTEM V65MA TAIWAN
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:23
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32901.S01
+Revision,A
+Sequence,1
+Description,V65MA H61 FOR ACER 6001
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON 266MHZ 32MB COMPUTER SYSTEM V65MA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:24
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32901.S04
+Revision,A
+Sequence,1
+Description,V65MA/H61 CELERON/266 64MB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON/266 64MB COMPUTER V65MA/H61
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:26
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32901.S19
+Revision,A
+Sequence,1
+Description,V65MA/IDATXII/Z-BOX SNI XPERT
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PII COMPUTER SYS W/O CPU V65MA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:30
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32901.S20
+Revision,A
+Sequence,1
+Description,V65MA ASPIRE Z-BOX NO SPEAKER
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,V65MA ASPIRE Z-BOX NO SPEAKER
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,V65MA
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:30
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32901.S21
+Revision,A
+Sequence,1
+Description,V65MA CELERON300/32MB/4GB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CLELRON300/32MB/4GB COMPUTER SYSTEM V65MA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:32
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32901.S24
+Revision,A
+Sequence,1
+Description,V65MA C2P/CELERON300/4GB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON 300 COMPUTER SYSTEM V65MA C2P/4GB
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:33
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32901.S25
+Revision,A
+Sequence,1
+Description,V65MA C2H/CELERON300/4GB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON 300 COMPUTER SYSTEM V65MA C2H/4GB
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:34
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32901.S26
+Revision,A
+Sequence,1
+Description,V65MA C4P/CELERON333/6GB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON 333 COMPUTER SYSTEM V65MA C4P/6GB
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:34
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32901.S27
+Revision,A
+Sequence,1
+Description,V65MA C4H/CELERON333/6GB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON 333 COMPUTER SYSTEM V65MA C4H/6GB
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:35
+Origional Applied Date,1999-08-07-23:42:48
+,
+Part Type,FG Assembly
+Part Number,81.32901.S28
+Revision,A
+Sequence,1
+Description,V65MA C4A/CELERON333/6GB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON 333 COMPUTER SYSTEM V65MA C4A/6GB
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:48
+Modified By,
+Last Modified Date,2005-07-06-05:11:35
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.32901.S29
+Revision,A
+Sequence,1
+Description,V65MA C45/CELERON333/6GB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON 333 COMPUTER SYSTEM V65MA C45/6GB
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:11:36
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.32901.S30
+Revision,A
+Sequence,1
+Description,V65MA C47/CELERON333/6GB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON 333 COMPUTER SYSTEM V65MA C47/6GB
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:11:36
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.32901.S31
+Revision,A
+Sequence,1
+Description,V65MA C4T/CELERON333/6GB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON 333 COMPUTER SYSTEM V65MA C4T/6GB
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:11:37
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.32901.S32
+Revision,A
+Sequence,1
+Description,V65MA CELERON300/HYUND/4GB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON 300 COMPUTER SYSTEM V65MA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:11:37
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.32901.S35
+Revision,A
+Sequence,1
+Description,V65MA ACI ASPIRE 6000 A- 4MB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PENTIUM II COMPUTER SYSTEM W/O CPU V65MA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:11:39
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.32901.S37
+Revision,A
+Sequence,1
+Description,V65MA ACI ASPIRE 6040 4MB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,CELERON/300 COMPUTER SYSTEM W/O CPU V65MA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:11:40
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.32901.041
+Revision,A
+Sequence,1
+Description,V65MA-1M/ACI ASPIRE 6082 4MB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PII/333 COMPUTER V65MA-1M/ACI ASPIRE 6082
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:11:20
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.32910.S04
+Revision,A
+Sequence,1
+Description,V65MA M/B 0KB 0MB W/O CPU RPRO
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PII MAINBD 0MB W/O CPU RPRO 2MB CS4235 V65MA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,BM
+Material Category First Digit Description,Main board or main board with small board
+Material Category Second Digit Description,Main Board
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:11:43
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.32910.S05
+Revision,A
+Sequence,1
+Description,V65MA MAIN BOARD W/O HWM
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PII MAINBD 0MB W/O CPU RIIC 4MB CS4235 V65MA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,V65MA
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:11:44
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.32910.S08
+Revision,A
+Sequence,1
+Description,V65MA M/B W/O HW MONITORING
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PENTIUM II MAINBOARD W/O CPU RPRO 4MB V65MA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,V65MA
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:11:45
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.32910.013
+Revision,A
+Sequence,1
+Description,V65MA-1X M/B W/O MEMORY
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,PII MAINBORAD W/O CPU/MAMORY V65MA
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,BM
+Material Category First Digit Description,Main board or main board with small board
+Material Category Second Digit Description,Main Board
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:11:41
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.32910.014
+Revision,A
+Sequence,1
+Description,V65MA CPU BOARD SOCKET 370
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,V65MA CPU BOARD SOCKET 370
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,A-
+Material Category First Digit Description,Add on card(with PCI or AGP golden fingers)
+Material Category Second Digit Description,Add on card(with PCI or AGP golden fingers)
+Model Name,V65MA
+Project Code,91.32901.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:11:42
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.33A01.S01
+Revision,A
+Sequence,1
+Description,X50LA ANNIE SYSTEM
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCWTBA-To be allocated
+General Description,X50LA ANNIE SYSTEM CPU K6-266 32M
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Model Name,
+Project Code,91.33A01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:14:09
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.33A01.S02
+Revision,A
+Sequence,1
+Description,X50LA ANNIE SKUII K6-300 32MB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCWTBA-To be allocated
+General Description,X50LA SYSTEM ANNIE SKUII K6-300 32MB
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Model Name,
+Project Code,91.33A01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:14:09
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.33A10.S01
+Revision,A
+Sequence,1
+Description,X50LA MB W/O CPU
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCWTBA-To be allocated
+General Description,X50LA MAINBOARD OMB W/O CPU
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Material Category Second Digit Description,Miscellaneous Parts(The products which can't be categorized)
+Model Name,
+Project Code,91.33A01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:14:12
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.33A10.002
+Revision,A
+Sequence,1
+Description,X50LA MB M1543C A1-E
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,X50LA MB M1543C A1-E
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Purchase
+Material Category,Z-
+Material Category First Digit Description,Miscellaneous Parts
+Material Category Second Digit Description,Miscellaneoue Parts
+Model Name,X50LA
+Project Code,
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:14:11
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.33B01.S01
+Revision,A
+Sequence,1
+Description,V72MA/H61 K6/350 32MB(AP)
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,K6/350 COMPUTER SYSTEM V72MA/H61
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V72MA
+Project Code,91.33B01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:14:31
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.33B01.S03
+Revision,A
+Sequence,1
+Description,V72MA/H61 K6/350 64MB(AR)
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,K6/350 COMPUTER SYSTEM V72MA/H61
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V72MA
+Project Code,91.33B01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:14:32
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.33B01.S05
+Revision,A
+Sequence,1
+Description,V72MA/H61 K6-2/350
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,K6-2/350 COMPUTER SYSTEM V72MA/H61
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V72MA
+Project Code,91.33B01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:14:33
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.33B01.S06
+Revision,A
+Sequence,1
+Description,V72MA/H61 K6-2XT/350 6GB(T)
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,K6-2XT/350 COMPUTER SYSTEM V72MA/H61
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V72MA
+Project Code,91.33B01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:14:34
+Origional Applied Date,1999-08-07-23:42:49
+,
+Part Type,FG Assembly
+Part Number,81.33B01.S07
+Revision,A
+Sequence,1
+Description,V72MA/H61 K6-2XT/380 8GB
+Material Type,FERT-Finished Goods for shipment
+Profit Center,PCP000-BU V - DA - OTHERS
+General Description,K6-2XT/380 COMPUTER SYSTEM V72MA/H61
+Contract Information,
+CMS3 Bonded Flag,0: Unknown
+M/P Code,Manufacture
+Material Category,S-
+Material Category First Digit Description,"System, F-"
+Material Category Second Digit Description,"System, F-"
+Model Name,V72MA
+Project Code,91.33B01.001
+Material or Process Change?,NO
+Green Factor,Regular;
+RoHS Exemptions,
+,RoHS Exemptions Detail
+Life Cycle State,Released
+Part Dispatched Destination,
+PPID Identifier,NO
+Equivalent Part Number,
+Customer Item Description,
+Serialization Indicator,0
+(Only for Astro Server sCTO),
+GLiS Entitlement,0
+(Only for Astro Server sCTO),
+Royalty,
+Is Frozen?,YES
+Customer Brand Name,
+CKD Mode Shipping?,NO
+Phantom Part?,NO
+Customer Model Name,
+Shipping PRD Flag,
+(Only for Rama Finish Goods),
+Custom Service Indicator 1,Z-Null
+Custom Service Indicator 2,Z-Null
+Custom Service Indicator 3,Z-Null
+Custom Service Indicator 4,Z-Null
+Custom Service Indicator 5,Z-Null
+Custom Service Indicator 6,Z-Null
+Custom Service Indicator 7,Z-Null
+Custom Service Indicator 8,Z-Null
+Custom Service Indicator 9,Z-Null
+Custom Service Indicator 10,Z-Null
+Custom Service Indicator 11,Z-Null
+Custom Service Indicator 12,Z-Null
+FCC ID,
+User/Vault/External System,<Desktop_WIP_Vault>
+Creator,
+Creation Date,1999-08-07-23:42:49
+Modified By,
+Last Modified Date,2005-07-06-05:14:34
+Origional Applied Date,1999-08-07-23:42:49

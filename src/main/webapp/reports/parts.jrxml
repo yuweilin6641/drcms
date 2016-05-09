@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="parts" language="groovy" pageWidth="595" pageHeight="842" whenNoDataType="AllSectionsNoDetail" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" isIgnorePagination="true" uuid="fe06c13b-a737-4787-870e-88afa3a9196c">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="1"/>
+	<parameter name="customer" class="java.lang.String" isForPrompting="false"/>
+	<parameter name="partsNo" class="java.lang.String" isForPrompting="false"/>
+	<parameter name="shippingDate" class="java.lang.String"/>
+	<field name="partsNo" class="java.lang.String"/>
+	<field name="partsDesc" class="java.lang.String"/>
+	<field name="failQty" class="java.lang.Number"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="22" splitType="Stretch">
+			<staticText>
+				<reportElement x="2" y="0" width="100" height="20" uuid="be107158-ae24-4505-990f-3286c35e0c93"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[Parts No]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="102" y="0" width="100" height="20" uuid="f677e548-8a5d-4c5f-8fa4-8981fa875e36"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[parts Description]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="202" y="0" width="100" height="20" uuid="4410778b-fcf4-4323-b9b4-b070bcab4950"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[failQty]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="61" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="25" splitType="Stretch"/>
+	</columnHeader>
+	<detail>
+		<band height="26" splitType="Stretch">
+			<textField isStretchWithOverflow="true">
+				<reportElement stretchType="RelativeToBandHeight" x="2" y="3" width="100" height="20" uuid="4d706315-895a-45a4-b47e-fefef2ef9c4e"/>
+				<textFieldExpression><![CDATA[$F{partsNo}]]></textFieldExpression>
+			</textField>
+			<textField isStretchWithOverflow="true">
+				<reportElement stretchType="RelativeToBandHeight" x="102" y="3" width="100" height="20" uuid="f5ff53dd-3683-4f1f-9bf3-9f80aa141f54"/>
+				<textFieldExpression><![CDATA[$F{partsDesc}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="202" y="3" width="100" height="20" uuid="5e4b9e5f-f155-4313-a14b-f51810402396"/>
+				<textFieldExpression><![CDATA[$F{failQty}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="46" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

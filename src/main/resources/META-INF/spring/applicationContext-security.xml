@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/security"
+	xmlns:beans="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.1.xsd
+        http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security-3.1.xsd">
+
+	<global-method-security pre-post-annotations="enabled" />
+
+	<http pattern="/" security="none"/>
+	<http pattern="/login" security="none"/>
+	<http pattern="/example-import/**" security="none"/>
+	<http pattern="/images/**" security="none"/>
+	<http pattern="/js/**" security="none"/>
+	<http pattern="/styles/**" security="none"/>
+	<http use-expressions="true" auto-config="true">
+		<custom-filter after="FILTER_SECURITY_INTERCEPTOR" ref="myFilter" />
+		<!--
+		<form-login login-page="/login" default-target-url="/dash"
+			login-processing-url="/j_spring_security_check"
+			authentication-failure-url="/login?error=1" />
+ 		-->
+		<form-login login-page="/login" default-target-url="/dash"
+			login-processing-url="/j_spring_security_check"
+			authentication-success-handler-ref="authSuccessHandler"
+			authentication-failure-url="/login?error=1" />
+		
+	</http>
+	
+	<!-- 一個自訂的filter，必須包含authenticationManager,accessDecisionManager,securityMetadataSource三個屬性，
+    我們的所有控制將在這三個類中實現，解釋詳見具體配置 -->
+    <beans:bean id="myFilter" class="com.databox.core.security.MyFilterSecurityInterceptor">
+        <beans:property name="authenticationManager"
+            ref="authenticationManager" />
+        <beans:property name="accessDecisionManager"
+            ref="myAccessDecisionManagerBean" />
+        <beans:property name="securityMetadataSource"
+            ref="securityMetadataSource" />    
+    </beans:bean>
+    <!-- 
+    <beans:bean id="myAuthProvider" class="com.wiwynn.core.security.MyAuthenticationProvider">
+        <beans:constructor-arg ref="ldapActiveDirectoryAuthProvider" />
+    </beans:bean>
+    
+    <beans:bean id="ldapActiveDirectoryAuthProvider" class="org.springframework.security.ldap.authentication.ad.ActiveDirectoryLdapAuthenticationProvider">
+        <beans:constructor-arg value="whq.wistron" />
+        <beans:constructor-arg value="ldap://whq.wistron:389/" />
+        <beans:property name="useAuthenticationRequestCredentials" value="false" />
+        <beans:property name="convertSubErrorCodesToExceptions" value="true" />
+    </beans:bean>
+     -->
+    <beans:bean id="myLdapActiveDirectoryAuthProvider" class="com.databox.core.security.MyActiveDirectoryLdapAuthenticationProvider">
+        <beans:constructor-arg value="whq.wistron" />
+        <beans:constructor-arg value="ldap://whq.wistron:389/" />
+        <beans:property name="useAuthenticationRequestCredentials" value="false" />
+        <beans:property name="convertSubErrorCodesToExceptions" value="true" />
+        <beans:property name="securityDAO" ref="securityDAO" />
+    </beans:bean>
+    
+    <!-- 認證管理器，實現用戶認證的入口，主要實現UserDetailsService介面即可 -->
+    <authentication-manager alias="authenticationManager">
+        <!--  <authentication-provider ref="myLdapActiveDirectoryAuthProvider"> -->
+        <authentication-provider user-service-ref="myUserDetailService">
+            <!--   如果使用者的密碼採用加密的話，可以加點“鹽”
+                <password-encoder hash="md5" />
+            -->
+        </authentication-provider>
+    </authentication-manager>
+    
+    <beans:bean id="authSuccessHandler" class="com.databox.core.security.AuthenticationSuccessHandlerImpl"/>
+    
+    <beans:bean id="myUserDetailService" class="com.databox.core.security.MyUserDetailService">
+        <beans:property name="securityDAO" ref="securityDAO" />
+    </beans:bean> 
+
+    <!-- 訪問決策器，決定某個用戶具有的角色，是否有足夠的許可權去訪問某個資源 -->
+    <beans:bean id="myAccessDecisionManagerBean" class="com.databox.core.security.MyAccessDecisionManager">
+    </beans:bean>
+    
+    <!-- 資源源資料定義，即定義某一資源可以被哪些角色訪問 -->
+    <beans:bean id="securityMetadataSource" class="com.databox.core.security.MyInvocationSecurityMetadataSource">
+        <beans:constructor-arg ref="securityDAO"/>
+    </beans:bean>
+    
+    <beans:bean id="securityDAO" class="com.databox.core.security.SecurityDAOImpl">
+        <beans:property name="dataSource" ref="dataSource"/>
+    </beans:bean>
+</beans:beans>
